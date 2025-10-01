@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 /**
  * title: booking page
  * description: booking page of the application;
